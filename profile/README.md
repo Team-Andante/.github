@@ -1,4 +1,5 @@
 # Team_Andante | ASAP
+이 팀은 RTREE의 멤버 중 일부로 구성되어 있습니다.  
 제8회 교육 공공데이터 AI 활용대회 'Team Andante' 팀 포트폴리오  
 2026 IRO Physical Computing 'ASAP' 팀 포트폴리오
 
